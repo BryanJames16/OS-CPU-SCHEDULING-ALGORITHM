@@ -1,5 +1,5 @@
 # Operating System CPU Scheduling Algorithms
-An implementation of Operating System CPU Scheduling Algorithms written in Java
+An implementation of Operating System CPU Scheduling Algorithms written in Java. All codes have been tested prior, and only `Shortest Remaining Time First` or `SRTF` algorithm has been tested to be having some bugs.
 
 **Algorithms Included:**
 - First-Come-First-Served (FCFS)
@@ -10,3 +10,6 @@ An implementation of Operating System CPU Scheduling Algorithms written in Java
 - Round Robin
 - Shortest Remaining Time First
 - Multi-Level Queue (MLQ)
+
+## License
+MIT License (c) 2024
