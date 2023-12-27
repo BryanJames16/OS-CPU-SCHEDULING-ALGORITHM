@@ -10,3 +10,6 @@ An implementation of Operating System CPU Scheduling Algorithms written in Java
 - Round Robin
 - Shortest Remaining Time First
 - Multi-Level Queue (MLQ)
+
+## License
+MIT License (c) 2024
